@@ -1,0 +1,164 @@
+.navbar-nav li a{
+    color: white !important;
+    font-size: large !important;
+    font-weight: 500 !important;
+    margin-left: 15px !important;
+   float: right !important;
+
+}
+.navbar{
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808))  !important;
+    position: sticky !important;
+}
+.fa-bars{
+    background-color: white !important;
+    font-size: 30px !important;
+}
+.navbar-toggler{
+    outline: none !important;
+}
+/* sction banner start form here  */
+
+.banner{
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+    
+}
+
+h1{
+    color: white;
+    font-weight: 600;
+    
+}
+p{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: medium;
+    color:white;
+}
+.banner a{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+.digital-img{
+    width: 400px;
+}
+.padding{
+    padding-top: 120px;
+}
+.bottom-img{
+    width: 100%;
+}
+
+/* services section styling start from here  */
+
+
+.services{
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+}
+.center{
+    width: 200px;
+    height: 200px;
+}
+.btn{
+    padding: 6px;
+    border-radius: 50px;
+    width: 120px;
+    font-size: medium;
+    font-weight: 500;
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+}
+
+/* 3rd section start from here  */
+.choose{
+    background-color: whitesmoke;
+
+}
+.choose ul li{
+padding: 5px;
+color:black;
+
+
+}
+.img-size{
+    width: 600px;
+}
+.ul-margin{
+    margin-top: 20px;
+}
+.small-img1{
+    width: 130px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.small-img2{
+    width: 150px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.line{
+    border-left: 4px solid goldenrod;
+}
+.text{
+    display: inline;
+    margin-left: 2px;
+}
+
+
+/* footer sectionn */
+
+.fa-map-marker{
+    font-size:20px !important;
+    height: 30px;
+    width: 40px;
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+    color: balck;
+    padding: 5px; 
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.fa-phone{
+    font-size:20px !important;
+    height: 30px;
+    width: 40px;
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+    color: balck;
+    padding: 5px; 
+    margin-right: 10px;
+    border-radius: 50px;
+}
+.fa-envelope-o{
+    font-size:20px !important;
+    height: 30px;
+    width: 40px;
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808)) ;
+    color: balck;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+.form-control{
+    margin-top: 30px;
+    background-color: white;
+}
+.suscribe-btn{
+    background-image: linear-gradient(to right, rgba(222, 241, 247, 0.582), rgba(4, 56, 119, 0.808));
+    margin-top: 20px;
+    border: none;
+    box-shadow: none !important;
+    border-radius: none;
+    padding: 3px;
+    font-weight: 500;
+}
+
+hr{
+    width: 50%;
+    height: 1px;
+    background-color: white;
+    margin-top: 20px;
+}
+.social-icons a:hover img{
+    transform: translateY(-10px);
+}
+
